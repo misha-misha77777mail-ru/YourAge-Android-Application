@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourAge</string>
+    <string name="hui">Введите значение!</string>
+    <string name="hua">Проверьте правильность введённых значений!</string>
+</resources>
